@@ -9,6 +9,8 @@ A simple end-to-end blog platform built with Java 17, Spring Boot, MySQL, and JW
 ✅ MySQL integration with Spring Data JPA
 ✅ Lightweight JWT-based middleware
 ✅ React frontend
+
+
 ⚙️ Tech Stack
 Java 17
 Spring Boot
